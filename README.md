@@ -1,1 +1,4 @@
 # FlipperZero
+
+
+THIS PROJECT IS IN EARLY BETA.
